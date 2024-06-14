@@ -1,4 +1,9 @@
 # shiritori_node.js
 
-### Start
+### Usage
+
+Start the project:
+
+```
 npm run dev
+```
